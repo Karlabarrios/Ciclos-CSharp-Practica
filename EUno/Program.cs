@@ -7,6 +7,7 @@ namespace EUno
         static void Main(string[] args)
         {
             //PROGRAMA CON "F O R"
+            //Console.WriteLine("Bienvenido al contador del uno al diez");
             //for(int x = 1; x <= 10; x++)
             //{
             //    Console.WriteLine(x);
@@ -19,13 +20,14 @@ namespace EUno
 
             int x = 1;
 
+            Console.WriteLine("Bienvenido al contador del uno al diez");
             while(x <= 10)
             {
                 Console.WriteLine(x);
                 x++;
             }
 
-            Console.WriteLine("Fin del programa");
+            Console.WriteLine("Fin del contador");
         }
     }
 }
