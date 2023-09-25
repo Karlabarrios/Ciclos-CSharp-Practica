@@ -39,9 +39,9 @@ namespace ExtraSeis
 
             if(bp == 1)
                 Console.WriteLine("El mayor primo es: " + mp);
-            else{
+            else
                 Console.WriteLine("No hay números primos");
-            }
+            
         }
     }
 }

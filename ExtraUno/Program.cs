@@ -13,7 +13,7 @@ namespace ExtraUno
             //     Console.WriteLine(x);
             // }
 
-            // Console.WriteLine("Fini del programa");
+            // Console.WriteLine("Fin del programa");
 
 
             // PROGRAMA CON "W H I L E"
@@ -26,7 +26,7 @@ namespace ExtraUno
                 x--;
             }
 
-            Console.WriteLine("Omg cunty girly o como se dice contadora");
+            Console.WriteLine("Fin del programa");
         }
     }
 }
